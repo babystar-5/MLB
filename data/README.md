@@ -1,0 +1,1 @@
+This directory stores cached or interim data if you choose to persist it. 
